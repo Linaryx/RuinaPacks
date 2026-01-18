@@ -1,11 +1,11 @@
 # RuinaPacks
-Сборки кубов под сервак
-
+Сборки модов для игры в разные мини-игры на приватном сервере
 
 # Бинго пак
 
 <img width="760" alt="Bingo card wide" src="https://github.com/user-attachments/assets/6d9ce58c-a9e7-4f40-90fb-bf89ecfc2f11" />
 
+<br></br>
 
 | CurseForge (.zip) | Modrinth (.mrpack) | PrismLauncher (.zip) |
 |-----------|----------|---------------|
