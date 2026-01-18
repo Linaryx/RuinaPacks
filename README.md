@@ -4,7 +4,8 @@
 
 # Бинго пак
 
-![YEP](https://cdn.modrinth.com/data/oMMOxJjh/493ca7708a8b673c8096c3d203bffb776bda74b0_96.webp)
+<img width="760" alt="Bingo card wide" src="https://github.com/user-attachments/assets/6d9ce58c-a9e7-4f40-90fb-bf89ecfc2f11" />
+
 
 | CurseForge (.zip) | Modrinth (.mrpack) | PrismLauncher (.zip) |
 |-----------|----------|---------------|
